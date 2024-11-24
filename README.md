@@ -1,6 +1,6 @@
 # Expense App
 
-> Python 3.12 | SQLite3
+> Python 3.12 | Tkinter | SQLite3
 
 Application for recording expenses, to use and launch you should download the `mysetup.exe` file and install it.
 
